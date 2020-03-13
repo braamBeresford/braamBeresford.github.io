@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Braam Beresford</title>
+    <link>/</link>
+    <description>Recent content on Braam Beresford</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Mar 2020 17:10:16 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Junior Design</title>
+      <link>/projects/junior-design/</link>
+      <pubDate>Fri, 13 Mar 2020 12:04:11 -0700</pubDate>
+      
+      <guid>/projects/junior-design/</guid>
+      <description>For our Junior design project we created created a system that is able to harvest power from a 170 Watt solar panel and safely deliver it to various charging circuits. The system does power point tracking in order to achieve proper input current and voltages.
+Once the Printed Circuit Board (PCB) takes in the solar power it safely charges:
+ Sealed Lead Acid (SLA) battery with proper charging curve An 18650 Lithium Ion cell USB-C Power Delivery compatible phones and batteries  The USB-C Power Delivery (PD) protocol allows the charger to negotiate a charging rate to deliver up to 45 Watts of power.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 12 Mar 2020 17:10:16 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am pursuing an Honors Bachelor of Science in Electrical and Computer Engineering at Oregon State University with Junior standing. I am heavily interested in digital logic design with personal projects implementing MIPS in SystemVerilog. I am also pursuing a minor in Computer Science.
+I formely interned as an Intergrated Circuit Test Engineer at Hewlett-Packard (HP) developing on silicon analog and digital signal tests. Under a mentor I augmented an existing Teradyne test plan to reduce test times by 40 percent.</description>
+    </item>
+    
+  </channel>
+</rss>
